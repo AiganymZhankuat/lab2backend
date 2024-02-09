@@ -1,0 +1,74 @@
+body {
+    background-color: #FEF5E7 ;
+  }
+  .me {
+    border-radius: 10%;
+    width: 30%;
+    height: 53%;
+    position: absolute;
+    right: 65%;
+    bottom: 40%;
+  }
+  h1 {
+    font-family: "Centaur";
+    color: #333;
+    text-align: right;
+    width: 70%;
+    height: 50%;
+    position: absolute;
+    bottom: 35%;
+  }
+  .abm {
+    font-family: "Centaur";
+    color: #333;
+    text-align: right;
+    width: 72%;
+    margin-top: 13%;
+  }
+  .mm {
+    font-family: "Microsoft JhengHei UI Light";
+    color: #333;
+    text-align: right;
+    width: 55%;
+    margin-top: 3%;
+    margin-left: 40%;
+  }
+  .p1 {
+    font-family: "Microsoft JhengHei UI Light";
+    color: #333;
+    margin-top: 15%;
+    margin-left: 14%;
+  }
+  .p2 {
+    font-family: "Lucida Handwriting";
+    color: #333;
+    margin-top: 2%;
+    margin-left: 10%;
+  }
+  .p3 {
+    font-family: "Microsoft JhengHei UI Light";
+    color: #333;
+    margin-top: 2%;
+    margin-left: 14%;
+  }
+  .p4 {
+    font-family: "Lucida Handwriting";
+    color: #333;
+    margin-top: 2%;
+    margin-left: 12%;
+  }
+  .fav {
+    border-radius: 10%;
+    width: 30%;
+    height: 30%;
+    margin-top: -50%;
+    margin-left: 55%;
+  }
+  .aig {
+    font-family: "Microsoft JhengHei UI Light";
+    color: #333;
+    text-align: right;
+    width: 55%;
+    margin-top: 3%;
+    margin-left: 36%;
+  }
